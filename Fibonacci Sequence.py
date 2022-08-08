@@ -4,7 +4,7 @@
 # In[7]:
 
 
-number = int(input("Please give input n"))
+number = int(input("Please give input n = "))
 def fibonacci(n):
      
     
